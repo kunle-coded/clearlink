@@ -247,15 +247,9 @@ function Hero() {
           <ReviewsContainer>
             <RatingsContainer>
               <RatingIconsContainer>
-                <RatingIconsContainer>
-                  <StarRating />
-                  <StarRating />
-                  <StarRating />
-                  <StarRating />
-                  <StarRating />
-                </RatingIconsContainer>
-                <Rating>5.0</Rating>
+                <StarRating count={5} />
               </RatingIconsContainer>
+              <Rating>5.0</Rating>
             </RatingsContainer>
             <RatingText>from 3,000+ reviews</RatingText>
           </ReviewsContainer>

@@ -1,9 +1,9 @@
-function Spotify() {
+function Spotify({ width = "152", height = "43" }) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="152"
-      height="43"
+      width={width}
+      height={height}
       viewBox="0 0 152 43"
       fill="none"
     >

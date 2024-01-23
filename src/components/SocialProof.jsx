@@ -19,10 +19,7 @@ const Container = styled.div`
   align-items: center;
   gap: 48px;
   padding: 0px 32px;
-
-  svg {
-    width: 141px;
-  }
+  width: 100%;
 `;
 
 const P = styled.p`
@@ -36,7 +33,8 @@ const P = styled.p`
 const BrandsContainer = styled.div`
   display: flex;
   align-items: center;
-  gap: 69px;
+  width: 100%;
+  gap: 59px;
 `;
 
 function SocialProof() {

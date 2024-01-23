@@ -21,14 +21,15 @@ const GlobalStyles = createGlobalStyle`
     --blue-200: #B2DDFF;
     --blue-dark-400: #528BFF;
     --blue-700: #175CD3;
+    --blue-dark-700: #004EEB;
 
     /* Typography */
     --font-xs: 16px;
     --font-regular: 18px;
     --font-sm: 20px;
     --font-md: 24px;
-    --font-lg: 44px;
-    --font-xl: 48px;
+    --font-lg: 34px;
+    --font-xl: 42px;
     --font-xxl: 54px;
 
     /* Shadows */
@@ -36,8 +37,8 @@ const GlobalStyles = createGlobalStyle`
     --box-shadow-xxl: 0px 32px 64px -12px rgba(16, 24, 40, 0.14);
 
     /* Paddings */
-    --padding-primary: 96px 160px;
-    --padding-secondary: 96px 128px;
+    --padding-primary: 96px 110px;
+    --padding-secondary: 96px 72px;
     --padding-tertiary: 96px 0px;
 }
 

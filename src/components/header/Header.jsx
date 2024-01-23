@@ -7,7 +7,7 @@ const StyledHeader = styled.header`
   flex-direction: column;
   align-items: center;
   gap: 160px;
-  padding: 40px 128px 66px 128px;
+  padding: 40px 72px 56px 72px;
   background: url("rows.png");
   background-position: top;
   background-size: cover;

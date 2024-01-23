@@ -1,11 +1,12 @@
-function StarRating() {
-  return (
+function StarRating({ count }) {
+  return Array.from({ length: count }, (_, i) => (
     <svg
       width="20"
       height="20"
       viewBox="0 0 20 20"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
+      key={i}
     >
       <g id="Star" clipPath="url(#clip0_2610_412)">
         <path
@@ -20,7 +21,7 @@ function StarRating() {
         </clipPath>
       </defs>
     </svg>
-  );
+  ));
 }
 
 export default StarRating;
