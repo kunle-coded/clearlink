@@ -227,19 +227,19 @@ function Hero() {
           <AvatarContainer>
             <AvatarWrapper>
               <Avatar>
-                <AvatarImage src="/assets/avatar.png" />
+                <AvatarImage src="assets/avatar.png" />
               </Avatar>
               <Avatar>
-                <AvatarImage src="/assets/avatar1.png" />
+                <AvatarImage src="assets/avatar1.png" />
               </Avatar>
               <Avatar>
-                <AvatarImage src="/assets/avatar2.png" />
+                <AvatarImage src="assets/avatar2.png" />
               </Avatar>
               <Avatar>
-                <AvatarImage src="/assets/avatar3.png" />
+                <AvatarImage src="assets/avatar3.png" />
               </Avatar>
               <Avatar>
-                <AvatarImage src="/assets/avatar4.png" />
+                <AvatarImage src="assets/avatar4.png" />
               </Avatar>
             </AvatarWrapper>
           </AvatarContainer>
@@ -259,24 +259,24 @@ function Hero() {
         <ImagesContainer>
           <ImagesRow>
             <ImageWrapper background="#FF9C66">
-              <Image src="/assets/image21.png" />
+              <Image src="assets/image21.png" />
             </ImageWrapper>
             <ImageWrapper background="#D6BBFB">
-              <Image src="/assets/image100.png" />
+              <Image src="assets/image100.png" />
             </ImageWrapper>
             <ImageWrapper background="#ACDC79">
-              <Image src="/assets/image8.png" />
+              <Image src="assets/image8.png" />
             </ImageWrapper>
           </ImagesRow>
           <ImagesRow>
             <ImageWrapper background="#B3B8DB">
-              <Image src="/assets/image72.png" />
+              <Image src="assets/image72.png" />
             </ImageWrapper>
             <ImageWrapper background="#FEC84B">
-              <Image src="/assets/image108.png" />
+              <Image src="assets/image108.png" />
             </ImageWrapper>
             <ImageWrapper background="#FEA3B4">
-              <Image src="/assets/image103.png" />
+              <Image src="assets/image103.png" />
             </ImageWrapper>
           </ImagesRow>
         </ImagesContainer>

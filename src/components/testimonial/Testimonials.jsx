@@ -29,7 +29,6 @@ const LeftContainer = styled.div`
   flex: 1 0 0;
 `;
 const RightContainer = styled.div`
-  /* display: flex; */
   height: 496px;
   flex: 1 0 0;
 `;
@@ -93,7 +92,7 @@ const Avatar = styled.div`
   justify-content: center;
   align-items: center;
   border-radius: 200px;
-  background: url("/assets/avatar5.png");
+  background: url("assets/avatar5.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -174,13 +173,13 @@ function Testimonials() {
         </LeftContainer>
         <RightContainer>
           <ImageWrapper>
-            <Image justify="right" src="/assets/image5.png" />
-            <Image justify="left" src="/assets/image1.png" />
+            <Image justify="right" src="assets/image5.png" />
+            <Image justify="left" src="assets/image1.png" />
           </ImageWrapper>
           <ImageWrapperBottom>
-            <Image src="/assets/image3.png" />
-            <Image src="/assets/image4.png" />
-            <Image src="/assets/image2.png" />
+            <Image src="assets/image3.png" />
+            <Image src="assets/image4.png" />
+            <Image src="assets/image2.png" />
           </ImageWrapperBottom>
         </RightContainer>
       </Container>

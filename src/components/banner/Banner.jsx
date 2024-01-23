@@ -88,7 +88,7 @@ function Banner() {
       <RightContainer>
         <RightInner>
           <div>
-            <Image src="/assets/banner-img.png" />
+            <Image src="assets/banner-img.png" />
           </div>
         </RightInner>
       </RightContainer>

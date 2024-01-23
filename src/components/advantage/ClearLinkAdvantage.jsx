@@ -100,12 +100,10 @@ const FeaturedText = styled.p`
 `;
 
 const ImageWrapper = styled.div`
-  /* width: 444px;
-  height: 427px; */
   width: 494px;
   height: 477px;
   flex-shrink: 0;
-  background: url("/assets/advantage-image.png");
+  background: url("assets/advantage-image.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
