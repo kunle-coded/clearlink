@@ -93,7 +93,7 @@ const Avatar = styled.div`
   justify-content: center;
   align-items: center;
   border-radius: 200px;
-  background: url("../../src/assets/avatar5.png");
+  background: url("/assets/avatar5.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -174,13 +174,13 @@ function Testimonials() {
         </LeftContainer>
         <RightContainer>
           <ImageWrapper>
-            <Image justify="right" src="../../src/assets/image5.png" />
-            <Image justify="left" src="../../src/assets/image1.png" />
+            <Image justify="right" src="/assets/image5.png" />
+            <Image justify="left" src="/assets/image1.png" />
           </ImageWrapper>
           <ImageWrapperBottom>
-            <Image src="../../src/assets/image3.png" />
-            <Image src="../../src/assets/image4.png" />
-            <Image src="../../src/assets/image2.png" />
+            <Image src="/assets/image3.png" />
+            <Image src="/assets/image4.png" />
+            <Image src="/assets/image2.png" />
           </ImageWrapperBottom>
         </RightContainer>
       </Container>

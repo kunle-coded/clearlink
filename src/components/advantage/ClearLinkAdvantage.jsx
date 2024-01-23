@@ -105,7 +105,7 @@ const ImageWrapper = styled.div`
   width: 494px;
   height: 477px;
   flex-shrink: 0;
-  background: url("../../src/assets/advantage-image.png");
+  background: url("/assets/advantage-image.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
