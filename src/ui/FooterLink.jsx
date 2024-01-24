@@ -3,7 +3,7 @@ import styled from "styled-components";
 const List = styled.li`
   display: flex;
   align-items: center;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.5rem;
   align-self: stretch;
 
