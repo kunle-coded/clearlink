@@ -27,6 +27,7 @@ const FAQLeftContainer = styled.div`
   gap: 20px;
   width: 43%;
 `;
+
 const TitleContainer = styled.div`
   display: flex;
   flex-direction: column;

@@ -19,6 +19,7 @@ const LeftContainer = styled.div`
   gap: 40px;
   flex-shrink: 0;
 `;
+
 const RightContainer = styled.div`
   display: flex;
   justify-content: flex-end;

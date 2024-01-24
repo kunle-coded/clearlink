@@ -26,6 +26,7 @@ const ItemWrapper = styled.div`
   align-items: center;
   align-self: stretch;
 `;
+
 const ItemInnerWrapper = styled.div`
   display: flex;
   align-items: flex-start;
@@ -58,6 +59,7 @@ const ItemHeading = styled.p`
   color: var(--gray-900);
   align-self: stretch;
 `;
+
 const ItemBody = styled.p`
   font-size: var(--font-regular);
   font-weight: 400;

@@ -47,6 +47,7 @@ const LinksWrapper = styled.div`
   align-items: flex-start;
   gap: 16px;
 `;
+
 const LinksTitle = styled.p`
   color: var(--gray-500);
   font-size: var(--font-xs);

@@ -23,6 +23,7 @@ const HeadingContainer = styled.div`
   gap: 20px;
   width: 100%;
 `;
+
 const HeadingTitle = styled.div`
   display: flex;
   flex-direction: column;
@@ -53,6 +54,7 @@ const ContentContainer = styled.div`
   align-items: center;
   width: 100%;
 `;
+
 const ContentInnerLeft = styled.div`
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -79,6 +81,7 @@ const FeaturedIcon = styled.div`
   border: 1px solid var(--gray-200);
   background: var(--gray-50);
 `;
+
 const FeaturedTextWrapper = styled.div`
   display: flex;
   flex-direction: column;
@@ -86,12 +89,14 @@ const FeaturedTextWrapper = styled.div`
   gap: 8px;
   align-self: stretch;
 `;
+
 const FeaturedTitle = styled.p`
   font-size: var(--font-md);
   font-weight: 600;
   line-height: 2rem;
   color: var(--gray-900);
 `;
+
 const FeaturedText = styled.p`
   font-size: var(--font-regular);
   font-weight: 400;

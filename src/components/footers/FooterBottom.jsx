@@ -26,6 +26,7 @@ const Container = styled.div`
   gap: 64px;
   width: 100%;
 `;
+
 const ContainerInner = styled.div`
   display: flex;
   align-items: center;
@@ -58,6 +59,7 @@ const SocialIconContainer = styled.div`
   justify-content: center;
   align-items: center;
 `;
+
 const SocialIcon2Container = styled.div`
   display: flex;
   width: 24px;
@@ -66,6 +68,7 @@ const SocialIcon2Container = styled.div`
   justify-content: center;
   align-items: center;
 `;
+
 const SocialIcon3Container = styled.div`
   display: flex;
   width: 24px;

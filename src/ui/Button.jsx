@@ -15,6 +15,7 @@ const sizes = {
     line-height: 1.55rem;
   `,
 };
+
 const variations = {
   primary: css`
     background-color: var(--blue-700);

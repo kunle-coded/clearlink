@@ -14,6 +14,7 @@ const CheckIcon = styled.div`
   justify-content: center;
   align-items: center;
 `;
+
 const CheckText = styled.div`
   display: flex;
   flex-direction: column;
