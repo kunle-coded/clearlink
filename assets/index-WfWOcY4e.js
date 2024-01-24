@@ -734,7 +734,7 @@ span {
 `;function qc(){return s.jsxs(Uc,{children:[s.jsxs(Wc,{children:[s.jsxs(Gc,{children:[s.jsx(v2,{children:"Ready to clear the path to perfect communication?"}),s.jsxs(Yc,{children:[s.jsx(C1,{children:"30 days free trial"}),s.jsx(C1,{children:"Cancel at any time"}),s.jsx(C1,{children:"Access to all features"}),s.jsx(C1,{children:"Peronalized onboarding"})]})]}),s.jsxs(Kc,{children:[s.jsx(On,{variation:"secondary",children:"Talk to sales"}),s.jsx(On,{children:"Start your free trial"})]})]}),s.jsx(Qc,{children:s.jsx(Xc,{children:s.jsx("div",{children:s.jsx(Jc,{src:"assets/banner-img.png"})})})})]})}const bc=v.li`
   display: flex;
   align-items: center;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.5rem;
   align-self: stretch;
 
