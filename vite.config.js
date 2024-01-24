@@ -4,6 +4,6 @@ import eslint from "vite-plugin-eslint";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "./",
+  base: "/clearlink/",
   plugins: [react(), eslint()],
 });
